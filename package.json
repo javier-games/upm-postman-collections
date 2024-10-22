@@ -1,21 +1,19 @@
 {
-  "name": "games.monogum.bricksbucket.web",
+  "name": "games.javier.upm.postman",
   "version": "0.0.0",
-  "displayName": "Bricks Bucket Web Package",
+  "displayName": "Postman Collections v2.0 for Unity",
   "description": "Bucket full of bricks to build something great.",
   "unity": "2019.4",
   "unityRelease": "1f1",
   "keywords": [
-    "web",
-    "extensions",
-    "attributes"
+    "web"
   ],
   "dependencies": {
-    "com.unity.ugui": "1.0.0"
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
   },
   "author": {
     "name": "Javier García",
-    "email": "javier@monogum.games",
-    "url": "monogum.games"
+    "email": "upm@javier.games",
+    "url": "javier.games"
   }
 }
