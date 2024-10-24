@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-namespace BricksBucket.Postman
+namespace BricksBucket.Web.Postman.Models
 {
     [Serializable]
     public abstract class SerializableDictionary<TKey, TValue> :

@@ -1,8 +1,8 @@
 {
-  "name": "games.javier.upm.postman",
-  "version": "0.0.0",
-  "displayName": "Postman Collections v2.0 for Unity",
-  "description": "Bucket full of bricks to build something great.",
+  "name": "games.javier.upm.bricksbucket.web.postman",
+  "version": "1.0.0",
+  "displayName": "Postman Collections for Unity",
+  "description": "Bucket to interact with the Postman Schema.",
   "unity": "2019.4",
   "unityRelease": "1f1",
   "keywords": [
@@ -12,8 +12,8 @@
     "com.unity.nuget.newtonsoft-json": "3.2.1"
   },
   "author": {
-    "name": "Javier García",
-    "email": "upm@javier.games",
+    "name": "Javier Garc\u00eda",
+    "email": "bricksbucket@javier.games",
     "url": "javier.games"
   }
 }

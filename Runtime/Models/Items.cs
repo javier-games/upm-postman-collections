@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using UnityEngine;
 
-namespace BricksBucket.Postman
+namespace BricksBucket.Web.Postman.Models
 {
     //	TODO: Split Items and Folders.
     /// <summary>

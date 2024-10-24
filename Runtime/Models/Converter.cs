@@ -6,7 +6,7 @@ using Newtonsoft.Json.Converters;
 
 // TODO: Simplify converters using wrapper interfaces.
 
-namespace BricksBucket.Postman
+namespace BricksBucket.Web.Postman.Models
 {
     internal static class Converter
     {

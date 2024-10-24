@@ -4,7 +4,7 @@ using UnityEngine;
 
 // ReSharper disable RedundantAssignment
 
-namespace BricksBucket.Postman
+namespace BricksBucket.Web.Postman.Models
 {
     public enum DataType
     {

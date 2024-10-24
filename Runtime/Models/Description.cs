@@ -2,7 +2,7 @@ using System;
 using Newtonsoft.Json;
 using UnityEngine;
 
-namespace BricksBucket.Postman
+namespace BricksBucket.Web.Postman.Models
 {
     [Serializable]
     public class Description : StringObjectWrapper<DescriptionObject>
