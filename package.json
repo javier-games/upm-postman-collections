@@ -1,0 +1,20 @@
+{
+  "name": "games.javier.upm.bricksbucket.web.postman",
+  "version": "1.0.0",
+  "displayName": "Postman Collections for Unity",
+  "description": "Bucket to interact with the Postman Schema.",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "license": "MIT",
+  "keywords": [
+    "web"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "author": {
+    "name": "Javier García",
+    "email": "bricksbucket@javier.games",
+    "url": "javier.games"
+  }
+}
