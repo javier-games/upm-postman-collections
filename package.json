@@ -5,6 +5,7 @@
   "description": "Bucket to interact with the Postman Schema.",
   "unity": "2019.4",
   "unityRelease": "1f1",
+  "license": "MIT",
   "keywords": [
     "web"
   ],
@@ -12,7 +13,7 @@
     "com.unity.nuget.newtonsoft-json": "3.2.1"
   },
   "author": {
-    "name": "Javier Garc\u00eda",
+    "name": "Javier García",
     "email": "bricksbucket@javier.games",
     "url": "javier.games"
   }
